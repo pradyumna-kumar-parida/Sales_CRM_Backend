@@ -229,7 +229,7 @@ A Postman collection can be included with the project to demonstrate the availab
 
 For the detailed collection structure, field definitions, relationships, and indexes, see [DATABASE_DESIGN.md](DATABASE_DESIGN.md).
 
-
+## Deployed API: https://sales-crm-backend-2ew2.onrender.com
 
 ## Sample API Requests and Responses
 
